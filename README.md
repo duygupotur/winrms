@@ -11,7 +11,7 @@ Script To Enable Winrm With SSL
   ```
 - Scriptin çalıştırılabilmesi aşağıdaki komutun çalıştırılması gerekmektedir. Sistem genelinde script çalıştırmaya izin vermez, yalnızca mevcut powershell'de script çalıştırmaya izin verir.
   ```
-  C:\Users\Administrator\Desktop> Set-ExecutionPolicy Bypass -Scope Process 
+  C:\Users\Administrator\Downloads> Set-ExecutionPolicy Bypass -Scope Process 
   Execution Policy Change
   The execution policy helps protect you from scripts that you do not trust. Changing the execution policy might expose
   you to the security risks described in the about_Execution_Policies help topic at
